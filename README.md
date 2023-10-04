@@ -7,7 +7,7 @@ https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.2/22-big-d
 
 Using Colab, the following questions were answered regading the CSV file:
 
-1.  What is the average price for a four-bedroom house sold for each year?
+** 1.  What is the average price for a four-bedroom house sold for each year? **
 
 The average price for four bedroom homes each year was as follows:
 
