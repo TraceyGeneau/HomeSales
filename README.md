@@ -4,7 +4,10 @@
 The data files, home_sales_revised.csv was obtained from the following URL:
 
 https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.2/22-big-data/home_sales_revised.csv
-
+</br>
+</br>
+</br>
+</br>
 Using Colab, the following questions were answered regading the CSV file:
 
 **1.  What is the average price for a four-bedroom house sold for each year?**
